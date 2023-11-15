@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mccourse:block/deepslate_cobalt_ore"
+
+  }
+
+
+
+}
