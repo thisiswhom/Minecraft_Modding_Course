@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:cobalt_ingot"
+      "item": "mccourse:cobalt_ingot"
     }
   },
   "result": {
-    "item": "minecraft:cobalt_block"
+    "item": "mccourse:cobalt_block"
   }
 }
